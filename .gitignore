@@ -1,6 +1,7 @@
 node_modules
 .terraform.tfvars
 package-lock.json
+.DS_Store
 # Local .terraform directories
 **/.terraform/*
 
